@@ -22,7 +22,7 @@ The following events would be nice as well
 Like how SWFLoader is used to load an image, IconLoader would be used to load either a Windows .ico file or a Mac .icns file. This would allow developers to use existing icons within Flex apps, without having to convert them to PNG or JPEG.
 
 Some methods it should have:
-   * load(file:String):void - obvisouly, just like SWFLoader, should handle urls or embedded assets
+   * load(url_or_string:String):void - obvisouly, just like SWFLoader, should handle urls or embedded assets
    * getIcons():Array 
       * returns an array of all Image components at the different sizes that are contained in the file
    * getIconForSize(width:Number):Image
