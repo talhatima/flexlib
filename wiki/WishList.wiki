@@ -29,3 +29,6 @@ Some methods it should have:
       * returns the icon that matches the width specified. If none exists, return null
    * getClosestImage(width:Number):Image 
       * returns the image that has the closest width to the param specified
+
+== Vertical TabNavigator ==
+An extension of the SuperTabNavigator already in flexlib (or maybe just an extension of normal TabNavigator) that would lay out the tabs along the left or right side of the navigator. Should work exactly the same as the normal tab navigator, but add one property, like tabBarPlacement, which can either be left, right, top, or bottom.
