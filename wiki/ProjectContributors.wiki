@@ -1,15 +1,18 @@
 #summary The people behind FlexLib.
 #labels contributors
 
-= Introduction =
+= Project Owners =
 
-Add your content here.
+ * Darron Schall
+ * Doug McCune
+ * Mike Chambers
+ * Ted Patrick
 
+= Project Contributors =
 
-= Details =
+ * Doug McCune
+ * Darron Schall
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= Want to Contribute? =
 
+Instructions for how to contribute go here...
