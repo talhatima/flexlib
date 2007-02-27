@@ -1,0 +1,9 @@
+#summary How you can contribute code to FlexLib
+
+= Introduction =
+Everyone is encouraged to contribute Flex components they have developed. The FlexLib project is meant to be an inclusive community project. That said, we want to make sure that the components included in the FlexLib library are high quality and follow good coding practices. 
+
+= Before you submit code =
+Please make sure you become familiar with the current FlexLib codebase. You should check out the latest version of FlexLib from the SVN repository. Follow the instructions on the FlexBuilderProject page.
+
+Got interrupted with work, will finish later...
