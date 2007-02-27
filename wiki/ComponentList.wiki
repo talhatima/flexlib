@@ -6,46 +6,46 @@ This wiki page contains a list of all components contained in the current build 
 
 == package: flexlib.controls ==
 
-=== ConvertibleTreeList ===
+==== ConvertibleTreeList ====
 A control that combines the functionality of the Tree component and the List component.
 The !ConvertibleTreeList allows you to use one control and have it display the dataProvider either as a Tree or as a List. You only have to set the dataProvider once. You can set the *mode* at any time to change the display mode.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/ConvertibleTreeList.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/ConvertibleTreeList/ConvertibleTreeList_Sample.swf Example] | Contributor: Doug !McCune
 
-=== HSlider and VSlider ===
+==== HSlider and VSlider ====
 Alternatives to the HSlider and VSlider controls included in the Flex framework. This version of the HSlider and VSlider allows you to drag the region between the thumbs, if the slider has mutliple thumbs. If there is more than one thumb then the region between the leftmost thumb and the rightmost thumb is draggable.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/HSlider.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/DraggableSlider/Slider_Sample.swf Example] | Contributor: Doug !McCune
 
-=== PromptingTextInput ===
+==== PromptingTextInput ====
 The !PromptingTextInput component is a small enhancement to standard !TextInput.  It adds the ability to specify a prompt value that displays when the text is empty, similar to how the prompt property of the !ComboBox behaves when there is no selected value.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/PromptingTextInput.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/PromptingTextInput/PromptingTextInput_Sample.swf Example] | Contributor: Darron Schall
 
-=== ScrollableArrowMenu ===
+==== ScrollableArrowMenu ====
 An extension of !ScrollableMenu that uses two arrow buttons placed at the top and bottom of the menu for scrolling.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/ScrollableArrowMenu.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/ScrollableMenus/ScrollableMenu_Sample.swf Example] | Contributor: Doug !McCune
 
-=== ScrollableMenu ===
+==== ScrollableMenu ====
 An extension of mx.controls.Menu that allows the control to scroll vertically.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/ScrollableMenu.html Documentation] |
 [http://flexlib.googlecode.com/svn/trunk/examples/ScrollableMenus/ScrollableMenu_Sample.swf Example] | Contributor: Doug !McCune
 
-=== ScrollableMenuBar ===
+==== ScrollableMenuBar ====
 !ScrollableMenuBar is an extension of !MenuBar that uses flexlib.controls.!ScrollableMenu  instead of using the original mx.controls.Menu. This allows us to specify a maxHeight for the !ScrollableMenuBar and that maxHeight will be used to determine the maxHeight for all the menus that the component generates.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/ScrollableMenuBar.html Documentation] | 
 [http://flexlib.googlecode.com/svn/trunk/examples/ScrollableMenus/ScrollableMenu_Sample.swf Example] | Contributor: Doug !McCune
 
-=== ScrollablePopUpMenuButton ===
+==== ScrollablePopUpMenuButton ====
 !ScrollablePopUpMenuButton is an extension of !PopUpMenuButton that uses flexlib.controls.!ScrollableMenu  instead of using the original mx.controls.Menu, which adds scrolling functionality to the menu.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/ScrollablePopUpMenuButton.html Documentation] |
 [http://flexlib.googlecode.com/svn/trunk/examples/ScrollableMenus/ScrollableMenu_Sample.swf Example] | Contributor: Doug !McCune
 
-=== SuperTabBar ===
+==== SuperTabBar ====
 The !SuperTabBar control extends the !TabBar control and adds drag and drop functionality and closable tabs. Used by the !SuperTabNavigator.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/SuperTabBar.html Documentation] | 
@@ -55,25 +55,25 @@ The !SuperTabBar control extends the !TabBar control and adds drag and drop func
 
 == package: flexlib.containers ==
 
-=== ButtonScrollingCanvas ===
+==== ButtonScrollingCanvas ====
 This is a Container component that uses buttons placed over the edges of the container to do the scrolling of its children. These buttons can either scroll the children when the user moves the mouse over them, or via mouse click. The buttons can be fully skinned.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/containers/ButtonScrollingCanvas.html Documentation] |
 [http://flexlib.googlecode.com/svn/trunk/examples/DragCanvas/DragCanvas_Sample.swf Example] | Contributor: Doug !McCune
 
-=== DragScrollingCanvas ===
+==== DragScrollingCanvas ====
 This is a Container component that allows the user to drag the contents to scroll the children, instead of or in addition to using the scrollbars.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/containers/DragScrollingCanvas.html Documentation] |
 [http://flexlib.googlecode.com/svn/trunk/examples/DragCanvas/DragCanvas_Sample.swf Example] | Contributor: Doug !McCune
 
-=== HAccordion ===
+==== HAccordion ====
 A Horizontal Accordion component. Works exactly like the normal Accordion component, except the item headers are rotated and they cascade from left to right, instead of top to bottom.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/containers/HAccordion.html Documentation] |
 [http://flexlib.googlecode.com/svn/trunk/examples/HAccordion/HAccordion_Sample.swf Example] | Contributor: Doug !McCune
 
-=== SuperTabNavigator ===
+==== SuperTabNavigator ====
 The !SuperTabNavigator is an extension of the !TabNavigator navigation container. It functions exactly like the TabNavigator, but adds some functionality. Added functionality includes: 1. Draggable, re-orderable tabs, 2. Closable tabs, 3. Scrolling tab bar if too many tabs are open, 4. Drop-down list of tabs
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/containers/SuperTabNavigator.html Documentation] |
