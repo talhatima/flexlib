@@ -50,11 +50,6 @@ The !SuperTabBar control extends the !TabBar control and adds drag and drop func
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/SuperTabBar.html Documentation] | 
 [http://flexlib.googlecode.com/svn/trunk/examples/SuperTabNavigator/SuperTabNavigator_Sample.swf Example] | Contributor: Doug !McCune
 
-=== SuperTabNavigator ===
-The !SuperTabNavigator is an extension of the !TabNavigator navigation container. It functions exactly like the !TabNavigator, but adds some functionality. Added functionality includes: 1. Draggable, re-orderable tabs, 2. Closable tabs, 3. Scrolling tab bar if too many tabs are open, 4. Drop-down list of tabs
-
-[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/containers/SuperTabNavigator.html Documentation] |
-[http://flexlib.googlecode.com/svn/trunk/examples/SuperTabNavigator/SuperTabNavigator_Sample.swf Example] | Contributor: Doug !McCune
 
 
 == package: flexlib.containers ==
