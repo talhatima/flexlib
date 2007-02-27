@@ -1,8 +1,8 @@
-#summary The list of all the components currently in flexlib.
+#summary The list of all the components currently in FlexLib.
 #labels Featured,components
 = FlexLib component list =
 
-This wiki page contains a list of all components contained in the current build of flexlib. When updating this page you should include a short summary of the component and the links to the ASDoc documentation and the sample SWF file, if available. Include the names of contributors for each component.
+This wiki page contains a list of all components contained in the current build of flexlib. After adding new components to FlexLib, you should edit this page and include a short summary of the component and the links to the ASDoc documentation and the sample SWF file, if available. Include the names of contributors for each component.
 
 == package: flexlib.controls ==
 
