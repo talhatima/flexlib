@@ -4,13 +4,13 @@
 = Project Owners =
 
  * Darron Schall
- * Doug McCune
+ * Doug !McCune
  * Mike Chambers
  * Ted Patrick
 
 = Project Contributors =
 
- * Doug McCune
+ * Doug !McCune
  * Darron Schall
 
 = Want to Contribute? =
