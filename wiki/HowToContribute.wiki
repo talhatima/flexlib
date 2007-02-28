@@ -45,7 +45,7 @@ Once your contribution is submitted we'll review it to make sure it's up to the 
 = Pure Actionscript vs. MXML =
 Ideally all components included in !FlexLib will be pure Actionscript 3.0 classes, not MXML classes. Anything you can do with an MXML class you can do with pure Actionscript. If you have some components you've developed in MXML we'll still incorporate them into !FlexLib, with the intention of eventually reworking them as pure AS classes.
 
-= Documentation = 
+=ASDoc Documentation=
 We use ASDoc to generate the documentation for !FlexLib. Documentation style should be consistent with the format of the documentation throughout the Flex SDK framework classes. Obviously the level of source code documentation will vary from contributor to contributor, but we hope you'll take the time to provide comprehensive documentation in your code. 
 
 For more on ASDoc and how to format your comments, see [http://livedocs.adobe.com/flex/201/html/wwhelp/wwhimpl/common/html/wwhelp.htm?context=LiveDocs_Book_Parts&file=asdoc_127_1.html Using ASDoc] on !LiveDocs.
@@ -84,6 +84,10 @@ Your example should be simple, but it should also demonstrate the functionality 
 	</mx:Panel>
 </mx:Application>
 }}}
+
+
+
+
 
 
 
