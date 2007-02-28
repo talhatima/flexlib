@@ -1,4 +1,5 @@
 #summary How you can contribute code to FlexLib
+#labels Featured
 
 = Introduction =
 Everyone is encouraged to contribute Flex components they have developed. The !FlexLib project is meant to be an inclusive community project. That said, we want to make sure that the components included in the !FlexLib library are high quality and follow good coding practices. 
@@ -38,7 +39,7 @@ Please make sure you become familiar with the current !FlexLib codebase. You sho
 Make sure you are comfortable with checking out the source code and building the project. It's not too hard, and if you're not already familiar with using SVN and Ant within Eclipse then now is a great chance to learn.
 
 = To submit your components =
-If this is your first contribution to !FlexLib then you do not have the ability to commit changes to the SVN repository. Contact one of the project administrators, this is either Darron Schall or Doug !McCune. Please either send along the code you want to add to flexlib, or links to the source code available on the web.
+If this is your first contribution to !FlexLib then you do not have the ability to commit changes to the SVN repository. Contact one of the project administrators, this is either [mailto:darron@darronschall.com Darron Schall] or [mailto:doug@dougmccune.com Doug McCune]. Please either send along the code you want to add to flexlib, or links to the source code available on the web.
 
 Once your contribution is submitted we'll review it to make sure it's up to the standards of the !FlexLib project. This isn't meant to scare away developers, we welcome *all* contributions, but we want to make sure we keep the quality of the project high. Assuming you've submitted awesome code, we'll integrate it with !FlexLib and provide you with SVN access, so in the future you can commit your own code to the project.
 
@@ -84,6 +85,8 @@ Your example should be simple, but it should also demonstrate the functionality 
 	</mx:Panel>
 </mx:Application>
 }}}
+
+
 
 
 
