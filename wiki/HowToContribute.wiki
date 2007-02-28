@@ -53,4 +53,7 @@ For more on ASDoc and how to format your comments, see [http://livedocs.adobe.co
 = Examples =
 Each component (or set of related components) should have an associated example MXML application. This application should be a standalone Flex application that demonstrates the functionality of the component. The MXML file (and any associated resource files) should go in a subdirectory of the src/examples/ directory. See the current  [http://flexlib.googlecode.com/svn/trunk/examples/ examples directory]. 
 
-These examples get compiled by the Ant build script. The Ant build target responsible for compiling the examples is called "examples" in the build.xml file. This build target loops over any MXML files that are named *_Sample.mxml under the src/examples/ directory and compiles each one into a SWF. Note that you should include the MIT licensing block in the example MXML file as well.
+These examples get compiled by the Ant build script. The Ant build target responsible for compiling the examples is called "examples" in the build.xml file. This build target loops over any MXML files that are named `*_`Sample.mxml under the src/examples/ directory and compiles each one into a SWF. Note that you should include the MIT licensing block in the example MXML file as well.
+
+
+
