@@ -15,4 +15,4 @@
 
 = Want to Contribute? =
 
-Instructions for how to contribute go here...
+See the HowToContribute page.
