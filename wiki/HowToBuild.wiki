@@ -3,7 +3,9 @@
 
 = Introduction =
 
-An ANT build script is provided to make building and interacting with the FlexLib project easier.
+An ANT build script is provided to make building and interacting with the !FlexLib project easier.
+
+*TODO* Explain the "test", "lib" and "examples" build targets, as well as "zip" for creating a distribution.  Explain how to edit the manifest.xml file for creating the .swc in the "lib" target.
 
 
 == Generating Documentation ==
