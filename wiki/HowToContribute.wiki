@@ -55,5 +55,35 @@ Each component (or set of related components) should have an associated example 
 
 These examples get compiled by the Ant build script. The Ant build target responsible for compiling the examples is called "examples" in the build.xml file. This build target loops over any MXML files that are named `*_`Sample.mxml under the src/examples/ directory and compiles each one into a SWF. Note that you should include the MIT licensing block in the example MXML file as well.
 
+Your example should be simple, but it should also demonstrate the functionality of the component. Here's the example MXML file for the !PromptingTextInput component:
+{{{
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" 
+	xmlns:flexlib="http://code.google.com/p/flexlib/"
+	layout="vertical">
+	
+	<mx:Panel title="PromptingTextInput Sample">
+		<mx:Form>
+			<mx:FormItem label="Name:">
+				<mx:TextInput id="fullName" />
+			</mx:FormItem>
+			
+			<mx:FormItem label="Address:" direction="vertical">
+				<flexlib:PromptingTextInput id="address1" prompt="Address 1" />
+				<flexlib:PromptingTextInput id="address2" prompt="Address 2" />			
+				<mx:HBox>
+					<flexlib:PromptingTextInput id="city" prompt="City"  width="129"/>
+					<flexlib:PromptingTextInput id="state" prompt="State"  width="50"/>
+					<flexlib:PromptingTextInput id="zip" prompt="Zip"  width="77"/>
+				</mx:HBox>
+			</mx:FormItem>		
+		</mx:Form>
+
+		<mx:ControlBar horizontalAlign="right">
+			<mx:Button id="submit" label="Submit" />
+		</mx:ControlBar>
+	</mx:Panel>
+</mx:Application>
+}}}
+
 
 
