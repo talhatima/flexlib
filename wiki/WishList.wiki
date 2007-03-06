@@ -34,7 +34,7 @@ Some methods it should have:
 An extension of the SuperTabNavigator already in flexlib (or maybe just an extension of normal TabNavigator) that would lay out the tabs along the left or right side of the navigator. Should work exactly the same as the normal tab navigator, but add one property, like tabBarPlacement, which can either be left, right, top, or bottom.
 
 == Image Map ==
-Like the &lt;map /&gt; tag for html that allows you te specify coordinates for clickable areas on an image that will load different links.
+Like the <map /> tag for html that allows you te specify coordinates for clickable areas on an image that will load different links.
 
 == Fire Effects ==
 Standalone flames and also the ability to apply a fire effect to an existing component and make it burn.
