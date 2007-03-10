@@ -10,8 +10,9 @@
 
 = Project Contributors =
 
- * Doug !McCune
- * Darron Schall
+ * [http://www.dougmccune.com/blog Doug McCune]
+ * [http://www.darronschall.com Darron Schall]
+ * [http://www.renaun.com Renaun Erickson]
 
 = Want to Contribute? =
 
