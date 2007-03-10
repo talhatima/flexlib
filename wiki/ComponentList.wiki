@@ -55,6 +55,12 @@ The !SuperTabBar control extends the !TabBar control and adds drag and drop func
 
 == package: flexlib.containers ==
 
+==== AdvancedForm ====
+The Advanced Form component provides Reset, Undo and Redo functionality. Undo and Redo are accessed by pressing "ctrl-Z" and "ctrl-Y" respectively.
+
+[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/containers/AdvancedForm.html Documentation] |
+[http://flexlib.googlecode.com/svn/trunk/examples/AdvancedForm/AdvancedForm_Sample.swf Example] | Contributor: Renaun Erickson
+
 ==== ButtonScrollingCanvas ====
 This is a Container component that uses buttons placed over the edges of the container to do the scrolling of its children. These buttons can either scroll the children when the user moves the mouse over them, or via mouse click. The buttons can be fully skinned.
 
