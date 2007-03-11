@@ -17,6 +17,11 @@ Alternatives to the HSlider and VSlider controls included in the Flex framework.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/HSlider.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/DraggableSlider/Slider_Sample.swf Example] | Contributor: Doug !McCune
 
+==== ImageMap ====
+The ImageMap control is an implementation of a client-side image map component, like it is supported in HTML.
+
+[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/ImageMap.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/DraggableSlider/ImageMap_Sample.swf Example] | Contributor: Doug !McCune
+
 ==== PromptingTextInput ====
 The !PromptingTextInput component is a small enhancement to standard !TextInput.  It adds the ability to specify a prompt value that displays when the text is empty, similar to how the prompt property of the !ComboBox behaves when there is no selected value.
 
