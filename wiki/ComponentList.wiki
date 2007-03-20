@@ -56,7 +56,10 @@ The !SuperTabBar control extends the !TabBar control and adds drag and drop func
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/SuperTabBar.html Documentation] | 
 [http://flexlib.googlecode.com/svn/trunk/examples/SuperTabNavigator/SuperTabNavigator_Sample.swf Example] | Contributor: Doug !McCune
 
+==== TreeGrid ====
+A control that combines the functionality of the Tree component and the !DataGrid component.
 
+[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/TreeGrid.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/TreeGrid/TreeGrid_Sample.swf Example] | Contributor: Yaniv De Ridder
 
 == package: flexlib.containers ==
 
