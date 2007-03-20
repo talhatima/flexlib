@@ -13,6 +13,7 @@
  * [http://www.dougmccune.com/blog Doug McCune]
  * [http://www.darronschall.com Darron Schall]
  * [http://www.renaun.com Renaun Erickson]
+ * [http://blogs.adobe.com/yderidder/ Yaniv De Ridder]
 
 = Want to Contribute? =
 
