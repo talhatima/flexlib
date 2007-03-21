@@ -1,0 +1,25 @@
+#summary A description of the changes between each release
+#labels changes,changelog
+
+= .1.4 =
+
+ * Fixed [http://code.google.com/p/flexlib/issues/detail?id=3&can=1&q= issue 3]
+
+= .1.3 =
+
+ * Added !TreeGrid control
+
+= .1.2 =
+ 
+ * ?
+
+= .1.1 =
+ 
+ * Added !ImageMap
+ * Added !AdvancedForm
+
+= .1 =
+ 
+ * Initial Release
+
+
