@@ -1,5 +1,5 @@
 #summary A description of the changes between each release
-#labels changes,changelog
+#labels changes,changelog,Featured
 
 = .1.4 =
 
@@ -21,5 +21,4 @@
 = .1 =
  
  * Initial Release
-
 
