@@ -11,7 +11,7 @@
 
 = .1.2 =
  
- * ?
+ * Fixed [http://tech.groups.yahoo.com/group/flexcoders/message/67974 bug in PromptingTextInput]
 
 = .1.1 =
  
@@ -21,4 +21,3 @@
 = .1 =
  
  * Initial Release
-
