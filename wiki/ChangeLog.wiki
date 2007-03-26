@@ -1,6 +1,11 @@
 #summary A description of the changes between each release
 #labels changes,changelog,Featured
 
+= .1.5 =
+
+ * Fixed !PromptingTextInput [http://groups.google.com/group/flexlib/browse_thread/thread/c49bda7579b4ed0?hl=en data binding issue]
+ * Added Fire component
+
 = .1.4 =
 
  * Fixed [http://code.google.com/p/flexlib/issues/detail?id=3&can=1&q= issue 3]
@@ -11,7 +16,7 @@
 
 = .1.2 =
  
- * Fixed [http://tech.groups.yahoo.com/group/flexcoders/message/67974 bug]
+ * Fixed !PromptingTextInput [http://tech.groups.yahoo.com/group/flexcoders/message/67974 displayAsPassword issue]
 
 = .1.1 =
  
