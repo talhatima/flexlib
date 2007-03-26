@@ -12,6 +12,11 @@ The !ConvertibleTreeList allows you to use one control and have it display the d
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/ConvertibleTreeList.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/ConvertibleTreeList/ConvertibleTreeList_Sample.swf Example] | Contributor: Doug !McCune
 
+==== Fire ====
+A component to produce a simulated fire effect.
+
+[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/Fire.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/Fire/Fire_Sample.swf Example] | Contributor: Doug !McCune
+
 ==== HSlider and VSlider ====
 Alternatives to the HSlider and VSlider controls included in the Flex framework. This version of the HSlider and VSlider allows you to drag the region between the thumbs, if the slider has mutliple thumbs. If there is more than one thumb then the region between the leftmost thumb and the rightmost thumb is draggable.
 
