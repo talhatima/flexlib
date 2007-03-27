@@ -1,0 +1,33 @@
+#summary How to get started using FlexLib in your Flex Projects
+#labels use
+
+= Note =
+
+This is just a quick outline.  We'll make this page more descriptive with screenshots when we get a chance!
+
+= Using FlexLib =
+
+Download the latest version of the flexlib.swc from the [http://code.google.com/p/flexlib/downloads/list download page].
+
+Create a new Flex project in FlexBuilder.
+
+In your Flex project, create a _lib_ directory.
+
+Extract the flexlib.swc file from the .zip, and place it in the _lib_ directory.
+
+Right click on the project name in the project Navigator, and select Properties.
+
+Select "Flex Build Path" on the left.
+
+Select the "Library Path" tab.
+
+Click the "Add SWC Folder" button.
+
+Type in "lib", press "OK"
+
+Press "OK" to commit your changes.
+
+FlexLib is now avaialble for your project to use.  To use the FlexLib components then, you need to use the proper XML Namespace:  xmlns:flexlib="http://code.google.com/p/flexlib/"
+
+Once the _flexlib_ name space is added in your MXML file, you can use any of the flexlib controls, like: <flexlib:TreeGrid ... />
+
