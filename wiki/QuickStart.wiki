@@ -9,7 +9,7 @@ This is just a quick outline.  We'll make this page more descriptive with screen
 
 Download the latest version of the flexlib.swc from the [http://code.google.com/p/flexlib/downloads/list download page].
 
-Create a new Flex project in FlexBuilder.
+Create a new Flex project in !FlexBuilder.
 
 In your Flex project, create a _lib_ directory.
 
@@ -27,7 +27,8 @@ Type in "lib", press "OK"
 
 Press "OK" to commit your changes.
 
-FlexLib is now avaialble for your project to use.  To use the FlexLib components then, you need to use the proper XML Namespace:  xmlns:flexlib="http://code.google.com/p/flexlib/"
+!FlexLib is now available for your project to use.  To use the !FlexLib components, you need to use the proper XML Namespace:  xmlns:flexlib="http://code.google.com/p/flexlib/"
 
 Once the _flexlib_ name space is added in your MXML file, you can use any of the flexlib controls, like: <flexlib:TreeGrid ... />
+
 
