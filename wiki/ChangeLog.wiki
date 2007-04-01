@@ -1,6 +1,10 @@
 #summary A description of the changes between each release
 #labels changes,changelog,Featured
 
+= Not released yet =
+
+ * Moved tabBarClasses package from _containers_ to _controls_
+
 = .1.5 =
 
  * Fixed !PromptingTextInput [http://groups.google.com/group/flexlib/browse_thread/thread/c49bda7579b4ed0?hl=en data binding issue]
