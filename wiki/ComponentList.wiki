@@ -92,6 +92,13 @@ A Horizontal Accordion component. Works exactly like the normal Accordion compon
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/containers/HAccordion.html Documentation] |
 [http://flexlib.googlecode.com/svn/trunk/examples/HAccordion/HAccordion_Sample.swf Example] | Contributor: Doug !McCune
 
+==== FlowBox ====
+The FlowBox is an extension of Box that implements a FlowLayout algorithm for layout out children.  FlowBox will position children in a horizontal fashion.  When the width of
+the child exceeds the width of the container, the child is placed on a new row.
+
+[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/containers/FlowBox.html Documentation] |
+[http://flexlib.googlecode.com/svn/trunk/examples/FlowBox/FlowBox_Sample.swf Example] | Contributor: Darron Schall
+
 ==== SuperTabNavigator ====
 The !SuperTabNavigator is an extension of the !TabNavigator navigation container. It functions exactly like the TabNavigator, but adds some functionality. Added functionality includes: 1. Draggable, re-orderable tabs, 2. Closable tabs, 3. Scrolling tab bar if too many tabs are open, 4. Drop-down list of tabs
 
