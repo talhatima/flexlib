@@ -3,6 +3,10 @@
 
 = Not released yet =
 
+= .1.7 =
+
+ * Added Docking !ToolBar
+
 = .1.6 =
 
  * Moved tabBarClasses package from _containers_ to _controls_
