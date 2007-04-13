@@ -86,6 +86,11 @@ This is a Container component that uses buttons placed over the edges of the con
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/containers/ButtonScrollingCanvas.html Documentation] |
 [http://flexlib.googlecode.com/svn/trunk/examples/DragCanvas/DragCanvas_Sample.swf Example] | Contributor: Doug !McCune
 
+==== Docking ToolBar ====
+The docking toolbar component collectively helps managing toolbars in an application. The toolbars can be docked to the top or bottom edges or kept floating within application area. The contents within a toolbar use a flow based layout approach.
+
+[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/containers/Docker.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/DockingToolBar/MultipleDockingToolBars_Sample.swf Example] | Contributor: Adobe Flex Team (Bangalore)
+
 ==== DragScrollingCanvas ====
 This is a Container component that allows the user to drag the contents to scroll the children, instead of or in addition to using the scrollbars.
 
