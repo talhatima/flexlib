@@ -66,6 +66,11 @@ A control that combines the functionality of the Tree component and the !DataGri
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/TreeGrid.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/TreeGrid/TreeGrid_Sample.swf Example] | Contributor: Yaniv De Ridder
 
+==== VerticalMenuBar ====
+A VerticalMenuBar control defines a vertical, top-level menu bar that contains one or menu items, just like the horizontal MenuBar control.
+[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/VerticalMenuBar.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/VerticalMenuBar/VerticalMenu_Sample.swf Example]
+Contributor: Doug McCune
+
 == package: flexlib.containers ==
 
 ==== AdvancedForm ====
