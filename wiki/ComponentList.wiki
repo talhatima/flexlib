@@ -104,7 +104,7 @@ A Horizontal Accordion component. Works exactly like the normal Accordion compon
 [http://flexlib.googlecode.com/svn/trunk/examples/HAccordion/HAccordion_Sample.swf Example] | Contributor: Doug !McCune
 
 ==== FlowBox ====
-The FlowBox is an extension of Box that implements a FlowLayout algorithm for layout out children.  FlowBox will position children in a horizontal fashion.  When the width of
+The !FlowBox is an extension of Box that implements a FlowLayout algorithm for layout out children.  FlowBox will position children in a horizontal fashion.  When the width of
 the child exceeds the width of the container, the child is placed on a new row.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/containers/FlowBox.html Documentation] |
@@ -120,7 +120,7 @@ The !SuperTabNavigator is an extension of the !TabNavigator navigation container
 == package: flexlib.charts ==
 
 ==== HorizontalAxisDataSelector ====
-The HorizontalAxisDataSelector is a chart annotation that allows the user to select a value along the x axis of the chart.  The selector dispatches a change event with the values of each of the y values of the chart series at the given x axis location.
+The !HorizontalAxisDataSelector is a chart annotation that allows the user to select a value along the x axis of the chart.  The selector dispatches a change event with the values of each of the y values of the chart series at the given x axis location.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/charts/HorizontalAxisDataSelector.html Documentation] |
 [http://flexlib.googlecode.com/svn/trunk/examples/HorizontalAxisDataSelector/HorizontalAxisDataSelector_Sample.swf Example] | Contributor: Darron Schall
