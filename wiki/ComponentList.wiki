@@ -115,3 +115,12 @@ The !SuperTabNavigator is an extension of the !TabNavigator navigation container
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/containers/SuperTabNavigator.html Documentation] |
 [http://flexlib.googlecode.com/svn/trunk/examples/SuperTabNavigator/SuperTabNavigator_Sample.swf Example] | Contributor: Doug !McCune
+
+
+== package: flexlib.charts ==
+
+==== HorizontalAxisDataSelector ====
+The HorizontalAxisDataSelector is a chart annotation that allows the user to select a value along the x axis of the chart.  The selector dispatches a change event with the values of each of the y values of the chart series at the given x axis location.
+
+[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/charts/HorizontalAxisDataSelector.html Documentation] |
+[http://flexlib.googlecode.com/svn/trunk/examples/HorizontalAxisDataSelector/HorizontalAxisDataSelector_Sample.swf Example] | Contributor: Darron Schall
