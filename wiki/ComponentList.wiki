@@ -135,10 +135,9 @@ The !HorizontalAxisDataSelector is a chart annotation that allows the user to se
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/charts/HorizontalAxisDataSelector.html Documentation] |
 [http://flexlib.googlecode.com/svn/trunk/examples/HorizontalAxisDataSelector/HorizontalAxisDataSelector_Sample.swf Example] | Contributor: Darron Schall
 
+== package: flexlib.skins ==
+
 ==== EnhancedButtonSkin ====
 This is the enhanced version of the Halo ButtonSkin that has been customized to support four numeric values in the corner, a more configurable border, and also a large number of colors in the gradient, individually specified for up, over, etc states.
-
-
-== package: flexlib.skins ==
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/skins/EnhancedButtonSkin.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/EnhancedButtonSkin/EnhancedButton_Sample.swf Example] | Contributor: Daniel Wabyick
