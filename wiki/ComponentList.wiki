@@ -6,16 +6,32 @@ This wiki page contains a list of all components contained in the current build 
 
 == package: flexlib.controls ==
 
+==== Base64Image ====
+An image component that renders base-64 encoded images.
+
+[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/Base64Image.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/Base64Image/Base64Image_Sample.swf Example] | Contributor: Stacy Young
+
 ==== ConvertibleTreeList ====
 A control that combines the functionality of the Tree component and the List component.
 The !ConvertibleTreeList allows you to use one control and have it display the dataProvider either as a Tree or as a List. You only have to set the dataProvider once. You can set the *mode* at any time to change the display mode.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/ConvertibleTreeList.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/ConvertibleTreeList/ConvertibleTreeList_Sample.swf Example] | Contributor: Doug !McCune
 
+
+==== EnhancedButtonSkin ====
+This is the enhanced version of the Halo ButtonSkin that has been customized to support four numeric values in the corner, a more configurable border, and also a large number of colors in the gradient, individually specified for up, over, etc states.
+
+[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/skins/EnhancedButtonSkin.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/EnhancedButtonSkin/EnhancedButton_Sample.swf Example] | Contributor: Daniel Wabyick
+
 ==== Fire ====
 A component to produce a simulated fire effect.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/Fire.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/Fire/Fire_Sample.swf Example] | Contributor: Doug !McCune
+
+==== Highlighter ====
+A component to highlight selected words or phrases within a text control
+
+[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/Highlighter.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/Highlighter/Highlighter_Sample.swf Example] | Contributor: Tom Lee
 
 ==== HSlider and VSlider ====
 Alternatives to the HSlider and VSlider controls included in the Flex framework. This version of the HSlider and VSlider allows you to drag the region between the thumbs, if the slider has mutliple thumbs. If there is more than one thumb then the region between the leftmost thumb and the rightmost thumb is draggable.
