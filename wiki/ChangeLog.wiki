@@ -2,6 +2,11 @@
 #labels changes,changelog,Featured
 
 = Not released yet =
+ 
+ * Added CanvasButton
+
+= .1.8 =
+ 
  * fixes for issues [http://code.google.com/p/flexlib/issues/detail?id=1 1], [http://code.google.com/p/flexlib/issues/detail?id=6 6], [http://code.google.com/p/flexlib/issues/detail?id=9 9], [http://code.google.com/p/flexlib/issues/detail?id=13 13], [http://code.google.com/p/flexlib/issues/detail?id=24 24]
  * Added !HorizontalAxisDataSelector chart annotation
 
