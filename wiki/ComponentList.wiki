@@ -11,6 +11,11 @@ An image component that renders base-64 encoded images.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/Base64Image.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/Base64Image/Base64Image_Sample.swf Example] | Contributor: Stacy Young
 
+==== CanvasButton ====
+The !CanvasButton is an extension of Button that lets you set the contents of the Button to any UI components, as opposed to only a single icon and label like the normal Button control allows.
+
+[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/CanvasButton.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/CanvasButton/CanvasButton_Sample.swf Example] | Contributor: Doug !McCune
+
 ==== ConvertibleTreeList ====
 A control that combines the functionality of the Tree component and the List component.
 The !ConvertibleTreeList allows you to use one control and have it display the dataProvider either as a Tree or as a List. You only have to set the dataProvider once. You can set the *mode* at any time to change the display mode.
