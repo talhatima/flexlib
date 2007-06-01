@@ -3,7 +3,7 @@
 
 = Not released yet =
  
- * Added CanvasButton
+ * Added !CanvasButton
 
 = .1.8 =
  
