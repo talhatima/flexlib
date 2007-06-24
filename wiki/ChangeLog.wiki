@@ -1,9 +1,11 @@
 #summary A description of the changes between each release
 #labels changes,changelog,Featured
 
-= Not released yet =
+= .1.9 =
  
  * Added !CanvasButton
+ * Added Scheduling Framework from Adobe Consulting into new package flexlib.scheduling
+ * fix for [[http://code.google.com/p/flexlib/issues/detail?id=24 issue 29]
 
 = .1.8 =
  
