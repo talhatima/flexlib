@@ -146,3 +146,6 @@ The !HorizontalAxisDataSelector is a chart annotation that allows the user to se
 This is the enhanced version of the Halo ButtonSkin that has been customized to support four numeric values in the corner, a more configurable border, and also a large number of colors in the gradient, individually specified for up, over, etc states.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/skins/EnhancedButtonSkin.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/EnhancedButtonSkin/EnhancedButton_Sample.swf Example] | Contributor: Daniel Wabyick
+
+== package: flexlib.scheduling ==
+Put some better Scheduling Framework documentation here, or put a link to a separate wiki page or a link to the existing wiki docs on labs?
