@@ -149,3 +149,9 @@ This is the enhanced version of the Halo ButtonSkin that has been customized to 
 
 == package: flexlib.scheduling ==
 Put some better Scheduling Framework documentation here, or put a link to a separate wiki page or a link to the existing wiki docs on labs?
+
+[http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer1_Sample.swf  Example 1]
+[http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer2_Sample.swf  Example 2]
+[http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer3_Sample.swf  Example 3]
+[http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer4_Sample.swf  Example 4]
+[http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer6_Sample.swf  Example 5]
