@@ -8,18 +8,24 @@
  * Mike Chambers
  * Ted Patrick
 
-= Project Contributors =
+= Individual Project Contributors =
 
  * [http://www.dougmccune.com/blog Doug McCune]
  * [http://www.darronschall.com Darron Schall]
  * [http://www.renaun.com Renaun Erickson]
  * [http://blogs.adobe.com/yderidder/ Yaniv De Ridder]
- * [http://weblogs.macromedia.com/flexteam/ Adobe Flex Team (Bangalore)]
  * [http://stacyyoung.org/ Stacy Young]
  * [http://tom-lee.blogspot.com/ Tom Lee]
  * [http://www.wabysabi.com/blog/ Daniel Wabyick]
- * [http://weblogs.macromedia.com/amcleod/ Adobe Consulting]
+ * [http://tobiaspatton.wordpress.com Tobias Patton]
 
+
+= Corporate Project Contributors =
+
+ * [http://weblogs.macromedia.com/flexteam/ Adobe Flex Team (Bangalore)]
+ * [http://weblogs.macromedia.com/amcleod/ Adobe Consulting]
+ * [http://effectiveui.com EffectiveUI]  
+ 
 = Want to Contribute? =
 
 See the HowToContribute page.

@@ -17,24 +17,5 @@ The following events would be nice as well
   * someEvent:EventType
      * prop1:type - Detailed information about X
 
-
-== IconLoader: ICO and ICNS file support==
-Like how SWFLoader is used to load an image, IconLoader would be used to load either a Windows .ico file or a Mac .icns file. This would allow developers to use existing icons within Flex apps, without having to convert them to PNG or JPEG.
-
-Some methods it should have:
-   * load(url_or_string:String):void - obviously, just like SWFLoader, should handle urls or embedded assets
-   * getImages():Array 
-      * returns an array of all Image components at the different sizes that are contained in the file
-   * getImageForSize(width:Number):Image
-      * returns the icon that matches the width specified. If none exists, return null
-   * getClosestImage(width:Number):Image 
-      * returns the image that has the closest width to the param specified
-
 == Vertical TabNavigator ==
 An extension of the SuperTabNavigator already in flexlib (or maybe just an extension of normal TabNavigator) that would lay out the tabs along the left or right side of the navigator. Should work exactly the same as the normal tab navigator, but add one property, like tabBarPlacement, which can either be left, right, top, or bottom.
-
-== Image Map ==
-Like the <map /> tag for html that allows you to specify coordinates for clickable areas on an image that will load different links.
-
-== Fire Effects ==
-Standalone flames and also the ability to apply a fire effect to an existing component and make it burn.

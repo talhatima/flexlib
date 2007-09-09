@@ -1,6 +1,13 @@
 #summary A description of the changes between each release
 #labels changes,changelog,Featured
 
+= .2 =
+ 
+ * Added !PromptingTextArea
+ * Added !IconLoader
+ * Added case-insensitive option for Highlighter
+ * fixes for issues [http://code.google.com/p/flexlib/issues/detail?id=35 35], [http://code.google.com/p/flexlib/issues/detail?id=45 45], [http://code.google.com/p/flexlib/issues/detail?id=47 47], [http://code.google.com/p/flexlib/issues/detail?id=50 50]
+
 = .1.9 =
  
  * Added !CanvasButton

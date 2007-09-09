@@ -37,6 +37,11 @@ Alternatives to the HSlider and VSlider controls included in the Flex framework.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/HSlider.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/DraggableSlider/Slider_Sample.swf Example] | Contributor: Doug !McCune
 
+==== IconLoader ====
+The !IconLoader component converts a Macintosh OS X (.icns) or Windows XP (.ico) icon file, along with its alpha mask, to a Flex 2 UIComponent.
+
+[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/IconLoader.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/IconLoader/IconLoader_Sample.swf Example] | Contributor: Tobias Patton
+ 
 ==== ImageMap ====
 The !ImageMap control is an implementation of a client-side image map component, like it is supported in HTML.
 
@@ -46,6 +51,11 @@ The !ImageMap control is an implementation of a client-side image map component,
 The !PromptingTextInput component is a small enhancement to standard !TextInput.  It adds the ability to specify a prompt value that displays when the text is empty, similar to how the prompt property of the !ComboBox behaves when there is no selected value.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/PromptingTextInput.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/PromptingTextInput/PromptingTextInput_Sample.swf Example] | Contributor: Darron Schall
+
+==== PromptingTextArea ====
+The !PromptingTextArea component is a small enhancement to standard !TextArea.  It adds the ability to specify a prompt value that displays when the text is empty, similar to how the prompt property of the !ComboBox behaves when there is no selected value.
+
+[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/PromptingTextArea.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/PromptingTextInput/PromptingTextInput_Sample.swf Example] | Contributor: Darron Schall
 
 ==== ScrollableArrowMenu ====
 An extension of !ScrollableMenu that uses two arrow buttons placed at the top and bottom of the menu for scrolling.
