@@ -16,6 +16,11 @@ The !CanvasButton is an extension of Button that lets you set the contents of th
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/CanvasButton.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/CanvasButton/CanvasButton_Sample.swf Example] | Contributor: Doug !McCune
 
+==== CanvasButtonAccordionHeader ====
+The !CanvasButtonAccordionHeader allows you to use a CanvasButton component as the header renderer of an Accordion, meaning you have full control over the header renderer and can add additional UI control, etc.
+
+[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/CanvasButtonAccordionHeader.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/CanvasButtonAccordionHeader/CanvasButtonAccordionHeader_Sample.swf Example] | Contributor: Doug !McCune
+
 ==== ConvertibleTreeList ====
 A control that combines the functionality of the Tree component and the List component.
 The !ConvertibleTreeList allows you to use one control and have it display the dataProvider either as a Tree or as a List. You only have to set the dataProvider once. You can set the *mode* at any time to change the display mode.
