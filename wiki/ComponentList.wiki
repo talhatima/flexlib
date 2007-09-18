@@ -14,7 +14,7 @@ An image component that renders base-64 encoded images.
 ==== CanvasButton ====
 The !CanvasButton is an extension of Button that lets you set the contents of the Button to any UI components, as opposed to only a single icon and label like the normal Button control allows.
 
-[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/controls/CanvasButton.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/CanvasButton/CanvasButton_Sample.swf Example] | Contributor: Doug !McCune
+[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/containers/accordionClasses/CanvasButtonAccordionHeader.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/CanvasButton/CanvasButton_Sample.swf Example] | Contributor: Doug !McCune
 
 ==== CanvasButtonAccordionHeader ====
 The !CanvasButtonAccordionHeader allows you to use a CanvasButton component as the header renderer of an Accordion, meaning you have full control over the header renderer and can add additional UI control, etc.
@@ -170,3 +170,4 @@ Put some better Scheduling Framework documentation here, or put a link to a sepa
 [http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer3_Sample.swf  Example 3]
 [http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer4_Sample.swf  Example 4]
 [http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer6_Sample.swf  Example 5]
+ 
