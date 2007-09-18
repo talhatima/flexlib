@@ -4,7 +4,7 @@
 = Not released yet =
 
  * Added !CanvasButtonAccordionHeader
- * Added default styles to !HAccordion
+ * Added default styles to HAccordion
  * Updated !DraggableSlider to work with Flex 3 SDK
 
 = .2 =
@@ -59,3 +59,4 @@
 = .1 =
  
  * Initial Release
+ 
