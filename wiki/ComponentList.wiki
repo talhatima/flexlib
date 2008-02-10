@@ -147,6 +147,12 @@ The !SuperTabNavigator is an extension of the !TabNavigator navigation container
 [http://flexlib.googlecode.com/svn/trunk/examples/SuperTabNavigator/SuperTabNavigator_Sample.swf Example] | Contributor: Doug !McCune
 
 
+==== WindowShade ====
+The !WindowShade is a container that displays a header button, which when clicked, will cause a panel to "unroll" beneath it like a windowshade being pulled down; or if the panel is already displayed it will be "rolled up" like a windowshade being rolled up. 
+
+[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/containers/WindowShade.html Documentation] |
+[http://flexlib.googlecode.com/svn/trunk/examples/WindowShade/WindowShade_Sample.swf Example] | Contributor: Dave Glasser, Doug !McCune
+
 == package: flexlib.charts ==
 
 ==== HorizontalAxisDataSelector ====
