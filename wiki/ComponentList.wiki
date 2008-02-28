@@ -168,7 +168,9 @@ This is the enhanced version of the Halo ButtonSkin that has been customized to 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/skins/EnhancedButtonSkin.html Documentation] | [http://flexlib.googlecode.com/svn/trunk/examples/EnhancedButtonSkin/EnhancedButton_Sample.swf Example] | Contributor: Daniel Wabyick
 
 == package: flexlib.scheduling ==
-Put some better Scheduling Framework documentation here, or put a link to a separate wiki page or a link to the existing wiki docs on labs?
+Put some better Scheduling Framework documentation here, or put a link to a separate wiki page?
+
+Original Adobe Labs wiki entry
 
 [http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer1_Sample.swf  Example 1]
 [http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer2_Sample.swf  Example 2]
