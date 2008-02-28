@@ -170,7 +170,7 @@ This is the enhanced version of the Halo ButtonSkin that has been customized to 
 == package: flexlib.scheduling ==
 Put some better Scheduling Framework documentation here, or put a link to a separate wiki page?
 
-Original Adobe Labs wiki entry
+Original Adobe Labs [http://labs.adobe.com/wiki/index.php/Flex_Scheduling_Framework wiki entry]
 
 [http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer1_Sample.swf  Example 1]
 [http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer2_Sample.swf  Example 2]
