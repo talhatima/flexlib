@@ -1,3 +1,5 @@
+test
+
 #summary The list of all the components currently in FlexLib.
 #labels Featured,components
 = FlexLib component list =
