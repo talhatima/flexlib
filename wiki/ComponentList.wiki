@@ -172,9 +172,10 @@ Put some better Scheduling Framework documentation here, or put a link to a sepa
 
 Original Adobe Labs [http://labs.adobe.com/wiki/index.php/Flex_Scheduling_Framework wiki entry]
 
-[http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer1_Sample.swf  Example 1]
-[http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer2_Sample.swf  Example 2]
-[http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer3_Sample.swf  Example 3]
-[http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer4_Sample.swf  Example 4]
-[http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer6_Sample.swf  Example 5]
+Documentation |
+[http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer1_Sample.swf  Example 1] [http://code.google.com/p/flexlib/source/browse/trunk/examples/SchedulingFramework/ScheduleViewer1_Sample.mxml Ex 1 Src] |
+[http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer2_Sample.swf  Example 2] |
+[http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer3_Sample.swf  Example 3] |
+[http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer4_Sample.swf  Example 4] |
+[http://flexlib.googlecode.com/svn/trunk/examples/SchedulingFramework/ScheduleViewer6_Sample.swf  Example 5] | Contributor: Adobe Consulting
  
