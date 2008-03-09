@@ -3,10 +3,17 @@
 
 = Not released yet =
 
+= .2.4 =
+ * Added FlexMDI project as flexlib.mdi package
+
+= .2.3 =
+ * Added WindowShade container
+
+= .2.something (.2.2 maybe?) =
  * Added !CanvasButtonAccordionHeader
  * Added default styles to HAccordion
  * Updated !DraggableSlider to work with Flex 3 SDK
-
+ 
 = .2 =
  
  * Added !PromptingTextArea
