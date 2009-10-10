@@ -19,6 +19,10 @@
  * [http://www.wabysabi.com/blog/ Daniel Wabyick]
  * [http://tobiaspatton.wordpress.com Tobias Patton]
  * Dave Glasser
+ * Scott Langeberg
+ * [http://www.returnundefined.com/ Ben Clinkinbeard]
+ * [http://www.meutzner.com/blog/ Brendan Meutzner]
+ * [http://brianjoseph31.typepad.com/smashedapples/ Brian Holmes]
 
 
 = Corporate Project Contributors =
