@@ -49,6 +49,15 @@ After the code is checked out from the previous step, you need to modify the pro
   * Under the Classes tab, select the "src" folder to include everything.  Alternatively, you can pick and choose what classes you want.
   * Click OK
 
+== Configure the project to build against Flex3 or Flex4 ==
+After the code is checked out from the previous step, you need to modify the project so that it knows whether it should build against Flex3 or Flex4.
+  * Right click on the project that you just created in FlexBuilder and select Properties
+  * Select Flex Library Compiler
+  * Update Addition Flex Compiler arguments box with one of:
+      ** Flex3 (default): -define+=FLEX_TARGET_VERSION::flex4,false -define+=FLEX_TARGET_VERSION::flex3,true
+      ** Flex4: -define+=FLEX_TARGET_VERSION::flex4,true -define+=FLEX_TARGET_VERSION::flex3,false
+  * Click OK.
+
 When the dialog closes, the project will be built and you'll have the projects .swc file placed in the default "bin" output directory.
 
 == Updating the project code ==
