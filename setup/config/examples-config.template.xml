@@ -11,13 +11,25 @@
     </metadata>
 
     <compiler>
+        <source-path>
+            <path-element>../../src</path-element>
+            <path-element>../../tests</path-element>
+        </source-path>
+
         <library-path>
             <path-element>../../dist/flexlib.swc</path-element>
             <path-element>@FLEX_LIBS_HOME@/libs</path-element>
             <path-element>@FLEX_LIBS_HOME@/libs/player</path-element>
+            <path-element>@FLEX_LIBS_HOME@/libs/player/{targetPlayerMajorVersion}</path-element>
             <path-element>@FLEX_LIBS_HOME@/locale/{locale}</path-element>
-
         </library-path>
+        <!--
+             List of SWC files or directories to compile against
+             but to omit from linking.
+        -->
+        <external-library-path>
+            <path-element>@FLEX_LIBS_HOME@/libs/player/10/playerglobal.swc</path-element>
+        </external-library-path>
 
 
 
@@ -25,6 +37,13 @@
              Specify a URI to associate with a manifest of
              components for use as MXML elements.
         -->
+        <!--  namespaces>
+
+             <namespace>
+             <uri>http://www.adobe.com/2006/mxml</uri>
+             <manifest>@FLEX_LIBS_HOME@/mxml-manifest.xml</manifest>
+             </namespace>
+             </namespaces -->
 
         <!-- Keep the following AS3 metadata in the bytecodes.
              Warning: For the data binding feature in the Flex framework to work properly,
