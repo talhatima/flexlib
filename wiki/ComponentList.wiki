@@ -176,5 +176,7 @@ Original Adobe Labs [http://labs.adobe.com/wiki/index.php/Flex_Scheduling_Framew
 [http://flexlib.googlecode.com/svn/trunk/examples/ScheduleViewer2_Sample.swf  demo] [http://code.google.com/p/flexlib/source/browse/trunk/examples/flex3/SchedulingFramework/ScheduleViewer2_Sample.mxml source]  | Example 3
 [http://flexlib.googlecode.com/svn/trunk/examples/ScheduleViewer3_Sample.swf  demo] [http://code.google.com/p/flexlib/source/browse/trunk/examples/flex3/SchedulingFramework/ScheduleViewer3_Sample.mxml source]  | Example 4
 [http://flexlib.googlecode.com/svn/trunk/examples/ScheduleViewer4_Sample.swf  demo] [http://code.google.com/p/flexlib/source/browse/trunk/examples/flex3/SchedulingFramework/ScheduleViewer4_Sample.mxml source]  | Example 6
-[http://flexlib.googlecode.com/svn/trunk/examples/ScheduleViewer6_Sample.swf  demo]  [http://code.google.com/p/flexlib/source/browse/trunk/examples/flex3/SchedulingFramework/ScheduleViewer6_Sample.mxml source] | Contributor: Adobe Consulting
+[http://flexlib.googlecode.com/svn/trunk/examples/ScheduleViewer6_Sample.swf  demo]  [http://code.google.com/p/flexlib/source/browse/trunk/examples/flex3/SchedulingFramework/ScheduleViewer6_Sample.mxml source] | Example 7
+[http://flexlib.googlecode.com/svn/trunk/examples/ScheduleViewer7_Sample.swf  demo]  [http://code.google.com/p/flexlib/source/browse/trunk/examples/flex3/SchedulingFramework/ScheduleViewer7_Sample.mxml source] | Contributor: Adobe Consulting, Wim Roelens
+Contributor: Adobe Consulting
  
