@@ -154,6 +154,12 @@ The !WindowShade is a container that displays a header button, which when clicke
 
 == package: flexlib.charts ==
 
+==== DraggablePie ====
+The !DraggablePie is a chart a pie chart where each wedge is draggable the user.  It is used so that users can manipulate the data displayed in a pie chart.  The pie chart can be configured to dispatch changes while dragging, or when the dragging is complete.
+
+[http://flexlib.googlecode.com/svn/trunk/docs/flexlib/charts/DraggablePie.html Documentation] |
+[http://flexlib.googlecode.com/svn/trunk/examples/DraggablePie_Sample.swf Example] | Contributor: Billy Schoenberg
+
 ==== HorizontalAxisDataSelector ====
 The !HorizontalAxisDataSelector is a chart annotation that allows the user to select a value along the x axis of the chart.  The selector dispatches a change event with the values of each of the y values of the chart series at the given x axis location.
 
