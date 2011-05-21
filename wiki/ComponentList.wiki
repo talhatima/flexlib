@@ -154,7 +154,7 @@ The !WindowShade is a container that displays a header button, which when clicke
 
 == package: flexlib.charts ==
 
-==== DraggablePie ====
+=== DraggablePie ===
 The !DraggablePie is a chart a pie chart where each wedge is draggable the user.  It is used so that users can manipulate the data displayed in a pie chart.  The pie chart can be configured to dispatch changes while dragging, or when the dragging is complete.
 
 [http://flexlib.googlecode.com/svn/trunk/docs/flexlib/charts/DraggablePie.html Documentation] |
